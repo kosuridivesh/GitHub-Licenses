@@ -1,4 +1,4 @@
-# GitHub-Licenses
+# GitHub-Licenses 
 Everything about the open source license
 
 > Exhaustive list of SPDX (Software Package Data Exchange) licenses: https://spdx.org/licenses/
